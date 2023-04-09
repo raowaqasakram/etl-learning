@@ -25,6 +25,6 @@ The article provides detailed instructions for the following steps:
 ## Conclusion
 The article provides a clear and concise guide for fetching newly created data from MongoDB using Talend Open Studio for Big Data 8.0. By following the step-by-step instructions, readers can efficiently extract only the required data from the source database and load it into the target database, avoiding data inconsistency, duplication, and time consumption.
 
-## Artcile Link
+## Article Link
 [Fetch Latest Data from MongoDB using Talend](https://blog.devgenius.io/fetch-latest-data-from-mongodb-talend-1f21ba7b98b5)
 
